@@ -1,0 +1,7 @@
+{
+  "name": "Akraniq Arrow",
+  "description": "Arrow puzzle escape game featuring levels, lives, streaks, and smooth arrow clearing mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
